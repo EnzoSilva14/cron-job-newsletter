@@ -1,0 +1,14 @@
+langchain
+openai
+pydantic==1.10.13
+tiktoken
+python-dotenv 
+langchain_openai
+langchain-community
+langsmith 
+langchain-core 
+pymongo 
+langchain-mongodb
+beautifulsoup4
+bs4
+html2text
